@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mern-exercise-tracker/static/css/main.f7c8aae9.css",
+    "main.js": "/mern-exercise-tracker/static/js/main.73927168.js",
+    "static/js/787.e66d6dd3.chunk.js": "/mern-exercise-tracker/static/js/787.e66d6dd3.chunk.js",
+    "index.html": "/mern-exercise-tracker/index.html",
+    "main.f7c8aae9.css.map": "/mern-exercise-tracker/static/css/main.f7c8aae9.css.map",
+    "main.73927168.js.map": "/mern-exercise-tracker/static/js/main.73927168.js.map",
+    "787.e66d6dd3.chunk.js.map": "/mern-exercise-tracker/static/js/787.e66d6dd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7c8aae9.css",
+    "static/js/main.73927168.js"
+  ]
+}
